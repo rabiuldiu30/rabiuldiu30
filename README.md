@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate Junior AI/ML Engineer focused on building real-world AI solutions and intelligent systems. I enjoy working with Python, Django, TensorFlow, PyTorch, and OpenCV while exploring Machine Learning, Deep Learning, Robotics, and Computer Vision.
+I’m a passionate Python Developer and Machine Learning Engineer focused on building real-world AI solutions and intelligent systems. I enjoy working with Python, Django, TensorFlow, PyTorch, and OpenCV while exploring Machine Learning, Deep Learning, Robotics, and Computer Vision.
 
 🚀 Experienced in developing AI-powered applications, object detection systems, recommendation systems, and full-stack web projects.
 🧠 Interested in Artificial Intelligence, Automation, Robotics, and emerging technologies.
