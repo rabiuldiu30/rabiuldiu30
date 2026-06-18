@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ... Python and Machine Learning
-- 🌱 I’m currently learning ... Python, C++, Java
+- 🌱 I’m currently learning ... Python, C++, Java, JavaScript
 - 👯 I’m looking to collaborate on ... Python and Machine Learning
 - 🤔 I’m looking for help with ... Machine Learning
 - 💬 Ask me about ... Python and Machine Learning
