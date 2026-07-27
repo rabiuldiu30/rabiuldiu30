@@ -169,6 +169,8 @@ A B2B trade platform connecting businesses across Europe and Asia.
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiuldiu30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
@@ -179,9 +181,7 @@ A B2B trade platform connecting businesses across Europe and Asia.
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
 # 📈 Contribution Graph
 
