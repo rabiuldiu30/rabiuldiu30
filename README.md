@@ -4,19 +4,19 @@
 
 ## 👨‍💻 About Me
 
-I'm **Md. Rabiul Islam**, an **AI & Machine Learning Engineer** and **Full-Stack Python Developer** passionate about building intelligent software that solves real-world problems. I enjoy combining Artificial Intelligence with modern web technologies to create scalable, efficient, and user-focused applications.
+I'm **Md. Rabiul Islam**, an **AI & Machine Learning Engineer** passionate about designing intelligent systems that solve real-world challenges.
 
-My interests span **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI, and Full-Stack Development**. I have experience designing and developing end-to-end applications using **Python, Django, FastAPI, React, PostgreSQL, and modern AI frameworks**.
+My expertise includes **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and Full-Stack Python Development**. I build scalable applications using **Python, FastAPI, Django, React, PostgreSQL, TensorFlow, PyTorch, and modern AI frameworks**.
 
-I believe technology should create meaningful impact. Whether it's developing AI-powered applications, recommendation systems, business platforms, or intelligent automation tools, I enjoy transforming ideas into practical solutions through clean architecture and high-quality engineering.
+I'm particularly interested in **LLMs, AI Agents, RAG, and Computer Vision**, and I enjoy building production-ready AI applications and contributing to open-source projects.
 
-### 🚀 What I'm Currently Working On
+### 🚀 Highlights
 
-- 🤖 AI-Powered Job Portal
-- 🧠 Multi-Agent AI Business Assistant
-- 🌍 Eurasia Trade Hub Platform
-- 📊 Machine Learning & Deep Learning Projects
-- 🔬 Research in Artificial Intelligence and Computer Vision
+- 🤖 AI & Machine Learning Engineer
+- 🐍 Python, FastAPI & Django Developer
+- 🧠 Interested in LLMs, RAG, and AI Agents
+- 🌍 Building scalable AI-powered applications
+- 🔬 Passionate about Computer Vision & NLP
 
 ### 🌱 Currently Learning
 
@@ -27,25 +27,33 @@ I believe technology should create meaningful impact. Whether it's developing AI
 - Cloud Deployment & MLOps
 - Advanced System Design
 
-### 💡 Technical Interests
+### ⭐ Core Expertise
 
-- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
-- Generative AI
-- Recommendation Systems
-- Data Science
-- Backend Development
-- Full-Stack Web Development
-- Software Architecture
+- Large Language Models
+- FastAPI & Django
+- React
+- PostgreSQL
 
 ### 🎯 Career Goal
 
-My goal is to contribute to cutting-edge AI research and develop intelligent software that improves people's lives. I aspire to pursue advanced studies in Artificial Intelligence while building scalable AI systems and open-source projects that make a real-world impact.
+To design and deploy intelligent AI systems that solve real-world problems while contributing to open-source software and advancing research in Large Language Models, Computer Vision, and Machine Learning.
 
-> *"Building intelligent software today for a smarter tomorrow."*
+> "Turning ideas into intelligent software through clean code and practical AI."
+
+## 🔬 Research Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- ✨ Generative AI & Large Language Models (LLMs)
+- 🔄 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agents & Multi-Agent Systems
+- ⚙️ MLOps & AI Deployment
 
 # 🚀 Featured Projects
 
@@ -177,7 +185,10 @@ A B2B trade platform connecting businesses across Europe and Asia.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
 </p>
 
 # 📈 Contribution Graph
