@@ -47,6 +47,108 @@ My goal is to contribute to cutting-edge AI research and develop intelligent sof
 
 > *"Building intelligent software today for a smarter tomorrow."*
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI-Powered Job Portal
+
+An intelligent recruitment platform that matches candidates with jobs using AI.
+
+**Tech Stack**
+
+- FastAPI
+- React
+- PostgreSQL
+- Machine Learning
+
+⭐ **Key Features**
+
+- Resume Parsing
+- AI Job Matching
+- Authentication
+- Admin Dashboard
+
+👉 [Repository](https://github.com/rabiuldiu30/your-repository)
+
+</td>
+
+<td width="50%">
+
+### 🧠 Multi-Agent AI Business Assistant
+
+A multi-agent system for business automation using LLMs.
+
+**Tech Stack**
+
+- LangGraph
+- LangChain
+- MCP
+- SQLite
+
+⭐ **Key Features**
+
+- Sales Agent
+- HR Agent
+- Finance Agent
+- Email Agent
+
+👉 [Repository](https://github.com/rabiuldiu30/your-repository)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎬 Movie Recommendation System
+
+Machine learning-powered recommendation engine.
+
+**Tech Stack**
+
+- Python
+- Scikit-Learn
+- SQLite
+
+⭐ **Key Features**
+
+- Content-Based Filtering
+- Similar Movies
+- Search
+- User Ratings
+
+👉 [Repository](https://github.com/rabiuldiu30/your-repository)
+
+</td>
+
+<td width="50%">
+
+### 🌍 Eurasia Trade Hub
+
+A B2B trade platform connecting businesses across Europe and Asia.
+
+**Tech Stack**
+
+- Django
+- PostgreSQL
+- Bootstrap
+
+⭐ **Key Features**
+
+- Product Listings
+- Company Profiles
+- Trade News
+- Multi-language Support
+
+👉 [Repository](https://github.com/rabiuldiu30/your-repository)
+
+</td>
+</tr>
+</table>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Rabiuli30)
 
@@ -75,7 +177,7 @@ My goal is to contribute to cutting-edge AI research and develop intelligent sof
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 # 📈 Contribution Graph
