@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Md. Rabiul Islam Banner" width="100%">
+</p>
 ## 👨‍💻 About Me
 
 I'm **Md. Rabiul Islam**, an **AI & Machine Learning Engineer** and **Full-Stack Python Developer** passionate about building intelligent software that solves real-world problems. I enjoy combining Artificial Intelligence with modern web technologies to create scalable, efficient, and user-focused applications.
