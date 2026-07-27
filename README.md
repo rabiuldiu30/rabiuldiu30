@@ -1,21 +1,47 @@
-## Hi there 👋
-- 🔭 I’m currently working on ... Python and Machine Learning
-- 🌱 I’m currently learning ... Python, C++, Java, JavaScript
-- 👯 I’m looking to collaborate on ... Python and Machine Learning
-- 🤔 I’m looking for help with ... Machine Learning
-- 💬 Ask me about ... Python and Machine Learning
-- 📫 How to reach me: ...Google it "rabiuldiu30"
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I love Python and Machine Learning
-
 ## 👨‍💻 About Me
 
-I’m a passionate Python Developer and Machine Learning Engineer focused on building real-world AI solutions and intelligent systems. I enjoy working with Python, Django, TensorFlow, PyTorch, and OpenCV while exploring Machine Learning, Deep Learning, Robotics, and Computer Vision.
+I'm **Md. Rabiul Islam**, an **AI & Machine Learning Engineer** and **Full-Stack Python Developer** passionate about building intelligent software that solves real-world problems. I enjoy combining Artificial Intelligence with modern web technologies to create scalable, efficient, and user-focused applications.
 
-🚀 Experienced in developing AI-powered applications, object detection systems, recommendation systems, and full-stack web projects.
-🧠 Interested in Artificial Intelligence, Automation, Robotics, and emerging technologies.
-📚 Always learning, experimenting, and improving my skills through practical and research-based projects.
-🎯 Goal: To create impactful AI solutions that solve real-world problems and make technology smarter and more useful.
+My interests span **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Generative AI, and Full-Stack Development**. I have experience designing and developing end-to-end applications using **Python, Django, FastAPI, React, PostgreSQL, and modern AI frameworks**.
+
+I believe technology should create meaningful impact. Whether it's developing AI-powered applications, recommendation systems, business platforms, or intelligent automation tools, I enjoy transforming ideas into practical solutions through clean architecture and high-quality engineering.
+
+### 🚀 What I'm Currently Working On
+
+- 🤖 AI-Powered Job Portal
+- 🧠 Multi-Agent AI Business Assistant
+- 🌍 Eurasia Trade Hub Platform
+- 📊 Machine Learning & Deep Learning Projects
+- 🔬 Research in Artificial Intelligence and Computer Vision
+
+### 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangGraph & AI Agents
+- Model Context Protocol (MCP)
+- Cloud Deployment & MLOps
+- Advanced System Design
+
+### 💡 Technical Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Recommendation Systems
+- Data Science
+- Backend Development
+- Full-Stack Web Development
+- Software Architecture
+
+### 🎯 Career Goal
+
+My goal is to contribute to cutting-edge AI research and develop intelligent software that improves people's lives. I aspire to pursue advanced studies in Artificial Intelligence while building scalable AI systems and open-source projects that make a real-world impact.
+
+> *"Building intelligent software today for a smarter tomorrow."*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rabiuli30) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rabiuli30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-rabiul-islam-diu30) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RabiulI30) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rabiul.bd3833@gmail.com) 
