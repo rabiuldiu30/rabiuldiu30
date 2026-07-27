@@ -75,16 +75,16 @@ To design and deploy intelligent AI systems that solve real-world problems while
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiuldiu30&theme=tokyo-night&hide_border=true" />
 </p>
 
-# 🚀 GitHub Summary
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiuldiu30&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rabiuldiu30&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiuldiu30&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabiuldiu30&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rabiuldiu30&theme=tokyonight&utcOffset=6"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=rabiuldiu30&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabiuldiu30&theme=tokyonight" />
 </p>
 
 ### ✍️ Random Dev Quote
