@@ -77,14 +77,18 @@ To design and deploy intelligent AI systems that solve real-world problems while
 
 ## 📈 GitHub Analytics
 
+## 📈 GitHub Analytics
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rabiuldiu30&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&count_private=true" alt="Rabiul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rabiuldiu30&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <b>🤖 AI Engineer • 🐍 Python Developer • 🚀 Open Source Enthusiast</b>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiuldiu30&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
