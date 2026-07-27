@@ -44,17 +44,6 @@ To design and deploy intelligent AI systems that solve real-world problems while
 
 > "Turning ideas into intelligent software through clean code and practical AI."
 
-## 🔬 Research Interests
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning & Deep Learning
-- 👁️ Computer Vision
-- 💬 Natural Language Processing (NLP)
-- ✨ Generative AI & Large Language Models (LLMs)
-- 🔄 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents & Multi-Agent Systems
-- ⚙️ MLOps & AI Deployment
-
 # 🚀 Featured Projects
 
 <table>
@@ -157,6 +146,17 @@ A B2B trade platform connecting businesses across Europe and Asia.
 </tr>
 </table>
 
+## 🔬 Research Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- ✨ Generative AI & Large Language Models (LLMs)
+- 🔄 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agents & Multi-Agent Systems
+- ⚙️ MLOps & AI Deployment
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Rabiuli30)
 
@@ -169,27 +169,17 @@ A B2B trade platform connecting businesses across Europe and Asia.
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiuldiu30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rabiuldiu30&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiuldiu30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiuldiu30&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rabiuldiu30&theme=tokyonight&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiuldiu30&theme=tokyonight)
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies"
-  />
-</p>
+https://github-profile-trophy.vercel.app/?username=rabiuldiu30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8
 
 # 📈 Contribution Graph
 
@@ -212,10 +202,19 @@ A B2B trade platform connecting businesses across Europe and Asia.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rabiuldiu30&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-![](https://komarev.com/ghpvc/?username=rabiuldiu30&label=Profile%20Views&color=0e75b6&style=flat)
+## 🤝 Let's Connect
 
+I'm always interested in discussing:
 
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔬 Research Collaboration
+- 💼 AI & Software Engineering Opportunities
+- 🌍 Open Source Projects
+
+📧 **Email:** rabiul.bd3833@gmail.com.com
+
+💼 **LinkedIn:** [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/md-rabiul-islam-ai/)
+
+🌐 **Portfolio:** https://rabiuldiu.com
