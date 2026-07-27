@@ -83,8 +83,7 @@ To design and deploy intelligent AI systems that solve real-world problems while
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=rabiuldiu30&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabiuldiu30&theme=tokyonight" />
+  <b>🤖 AI Engineer • 🐍 Python Developer • 🚀 Open Source Enthusiast</b>
 </p>
 
 ### ✍️ Random Dev Quote
