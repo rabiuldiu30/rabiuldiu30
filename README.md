@@ -72,12 +72,6 @@ To design and deploy intelligent AI systems that solve real-world problems while
 </p>
 
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiuldiu30&theme=tokyo-night&hide_border=true" />
-</p>
-
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -86,10 +80,9 @@ To design and deploy intelligent AI systems that solve real-world problems while
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiuldiu30&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rabiuldiu30&theme=tokyo-night&hide_border=true" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
