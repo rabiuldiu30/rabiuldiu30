@@ -54,24 +54,35 @@ To design and deploy intelligent AI systems that solve real-world problems while
 
 ## 🛠️ Technologies & Tools I Use
 
+## 🛠️ Technologies & Tools I Use
+
 | Category | Technologies |
 |----------|--------------|
-| 📝 Languages | <img src="https://skillicons.dev/icons?i=python,c,cpp,js" /> |
-| 🌐 Frontend | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" /> |
-| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=django,flask,nodejs" /> |
+| 📝 Programming Languages | <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,php" /> |
+| 🌐 Frontend | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite" /> |
+| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=django,flask,laravel,nodejs,express" /> |
+| 🤖 AI & Machine Learning | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" /> |
+| 📊 Data Science | <img src="https://skillicons.dev/icons?i=anaconda,jupyter" /> <br> Pandas • NumPy • Matplotlib • Plotly • Seaborn • SciPy • XGBoost • LightGBM |
 | 🗄️ Database | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite" /> |
-| 🤖 AI / ML | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> |
-| 📊 Data Science | <img src="https://skillicons.dev/icons?i=anaconda,jupyter" /> |
-| 🔧 Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" /> |
+| ☁️ Cloud & Deployment | <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" /> |
+| 🔧 Tools & Platforms | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cursor" /> |
+| 📚 Development Tools | Jupyter Notebook • Google Colab • Kaggle • MLflow • Weights & Biases |
+| 🤖 AI Tools | ChatGPT • Claude • Gemini • Google AI Studio • GitHub Copilot • Cursor • Perplexity • Antigravity • Hugging Face |
+
+
+## 🤖 AI Tools
 
 ## 🤖 AI Tools
 
 ![](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot)
-![](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge)
 ![](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge)
+![](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot)
+![](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge)
+![](https://img.shields.io/badge/Antigravity-FF6B35?style=for-the-badge)
+![](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
 
 
 # 📊 GitHub Stats
