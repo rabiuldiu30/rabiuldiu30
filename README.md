@@ -69,16 +69,6 @@ To design and deploy intelligent AI systems that solve real-world problems while
 
 
 # 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/rabiuldiu30">
-    <img src="https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight" alt="Rabiul's GitHub Stats" />
-  </a>
-  <a href="https://github.com/rabiuldiu30">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiuldiu30&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/rabiuldiu30">
     <img src="https://streak-stats.demolab.com?user=rabiuldiu30&theme=tokyonight" alt="GitHub Streak" />
@@ -87,7 +77,7 @@ To design and deploy intelligent AI systems that solve real-world problems while
 
 <p align="center">
   <a href="https://github.com/rabiuldiu30">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiuldiu30&theme=tokyonight" alt="Profile Details" />
+    <img src="https://raw.githubusercontent.com/rabiuldiu30/rabiuldiu30/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
   </a>
 </p>
 
