@@ -70,20 +70,13 @@ To design and deploy intelligent AI systems that solve real-world problems while
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiuldiu30&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabiuldiu30&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=rabiuldiu30&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rabiuldiu30&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabiuldiu30&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiuldiu30&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rabiuldiu30&theme=tokyonight)
 
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rabiuldiu30&theme=tokyonight)
 
 ## 📈 GitHub Analytics
 
